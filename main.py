@@ -10,7 +10,6 @@ import json
 import textwrap
 import pygame_gui
 
-openai.api_key = ""
 
 # Initialize Pygame
 pygame.init()
