@@ -19,7 +19,7 @@ import requests
 # headers = {
 #     "accept": "application/json",
 #     "content-type": "application/json",
-#     "Authorization": "Bearer DDRPPVJWLRaDm9U3pXP6crGjivmIOVly",
+#     "Authorization": "",
 # }
 
 # response = requests.post(url, json=payload, headers=headers)
